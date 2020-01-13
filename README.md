@@ -1,7 +1,10 @@
 # Read Pdfs
 
-It takes a Pdf(example-2.pdf) that contains a table and saves it in Excel file (table_second_page_example.xlsx)
+This script reads a PDF file (click on example-2.pdf to see it) and saves its data into Excel File(table_second_page_example.xlsx).
 
-read_pdf.ipynb contains all the code and process
+Example-2.pdf
 
-To download the Excel file click on 'View raw'
+
+table_second_page_example.xlsx
+
+To review full code check: 
